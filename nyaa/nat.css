@@ -1,0 +1,28 @@
+@media(max-width:600px) and (max-width:600px){ 
+
+.nome{
+    background-color: blueviolet;
+
+}
+.foto{
+    width: ;
+}
+
+}
+.gato{
+    font-size: 25px;
+
+}
+.gatinho{
+   font-size: 60px;}
+body{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+}
+.gatas{
+   height: 200px;
+   background-image: linear-gradient(to right, rgba(218, 68, 193, 0),rgb(20, 19, 20));
+    
+}
+
+

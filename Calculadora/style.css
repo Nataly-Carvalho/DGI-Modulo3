@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div{
+    height: 500px;
+    width: 500px;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+
+  h1{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 100px;
+  }
+
+  .letra{
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+  }

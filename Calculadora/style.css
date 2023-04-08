@@ -1,11 +1,11 @@
-body {
+.bod {
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
 
-div{
+.div{
     height: 500px;
     width: 500px;
 }
@@ -15,12 +15,24 @@ div{
   @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 
-  h1{
+  .titulo{
     font-family: 'Libre Barcode 128 Text', cursive;
-    font-size: 100px;
+    font-size: 80px;
   }
 
   .letra{
     font-family: 'VT323', monospace;
-    font-size: 50px;
+    font-size: 25px;
   }
+  .tm-social {
+    width: 40px;
+    height: 40px;
+}
+.img{
+  width: 500px; 
+  height: 500px;
+  margin-left: 50px;
+}
+.margem{
+  margin-top: 7% !important;
+}

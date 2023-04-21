@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+h1{
+   font-family: 'Playfair Display', serif; 
+}
+
+.bg{
+    background: #56CCF2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.img {
+    width: 700px!important;
+    height: 600px!important;
+    }
+    .tm-social {
+        width: 40px;
+        height: 40px;
+    }
+    .as{
+        display: inline-block;
+        width: 60%;
+        margin: 100px;
+        justify-content: center;
+        vertical-align:200px!important;
+        font-family: 'Playfair Display', serif; 
+      }

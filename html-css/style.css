@@ -1,0 +1,26 @@
+.bg{
+    background: #FFC3A1;
+}
+.nav{
+   background: #F0997D ; 
+}
+.cor{
+    background-color: #A75D5D;
+}
+.imagem:hover{
+    transform: scale(1.1);
+}
+.cor2{
+  background-color:   #D3756B;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.fonte{
+  font-family: 'Dancing Script', cursive;;
+}
+.tm-social {
+    width: 40px;
+    height: 40px;
+
+}

@@ -5,5 +5,5 @@ function calcularSalario(){
     const salarioTotal = ganhoMes /(horasDias *diasMes);
 
     const resultado = document.getElementById("Resultado");
-    resultado.innerHTML = `Salario total: R$ ${salarioTotal.toFixed(2)}`;
+    resultado.innerHTML = `Seu valor por hora: R$ ${salarioTotal.toFixed(2)}`;
 }
